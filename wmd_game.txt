@@ -1,0 +1,35 @@
+Could be fun and relatively easy/cheap to put together someday, feels like a solid premise to design off of
+
+---
+
+types of cards
+  armament
+  event
+  institution
+  person
+  technology
+  WMD
+
+types of dice
+  espionage - purple
+  force - red
+  money - green
+  political favour - orange
+  populace - yellow
+  research - blue
+
+setup
+  dice draft
+  initial cards
+
+turn
+  beginning
+  player actions
+  
+Packaging Design
+  Stack of cups to be used by each player, filled with dice, and capped off with simple bowl colored to resemble a warhead.
+  The bowl serves to keep the dice contained so as to not damage the plastic wrap.
+  The stack of cups has 3 fins attached to further the appearance of a rocket.
+  A boxed deck of cards is strapped to the side of the cups, and features a picture of a man strapped to the side of a rocket.
+  The strap has printed onto it a description of the game.
+  The entire thing is plastic wrapped.
